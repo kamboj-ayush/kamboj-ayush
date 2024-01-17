@@ -20,6 +20,6 @@ I'm always striving to enhance my skills and stay updated with the latest trends
 I'm interested in collaborating on projects related to Android development, open-source initiatives, and applications that have a positive impact. If you have an exciting project, feel free to reach out!
 
 ## 📫 How to Reach Me
-- LinkedIn: [Ayush Kamboj](www.linkedin.com/in/ayush-kamboj-5a36051b5)
+- [LinkedIn](https://www.linkedin.com/in/ayush-kamboj-5a36051b5)
 ## 😄 Pronouns
 He/Him
