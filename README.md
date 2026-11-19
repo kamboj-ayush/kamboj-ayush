@@ -34,7 +34,25 @@ I build mobile apps with Flutter and native Android. I care about clean architec
 ### Stats
 
 <p>
-  <img src="https://leetcard.jacoblin.cool/Ayu5h_001?theme=dark&font=Inter" alt="LeetCode stats" height="170"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kamboj-ayush&show_icons=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&ring_color=e6edf3"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kamboj-ayush&show_icons=true&count_private=true&rank_icon=github&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=59636e&icon_color=1f2328&ring_color=1f2328" alt="GitHub stats" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kamboj-ayush&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamboj-ayush&layout=compact&hide_border=true&bg_color=ffffff&title_color=1f2328&text_color=59636e" alt="Top languages" height="165"/>
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kamboj-ayush&hide_border=true&background=0d1117&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e"/>
+    <img src="https://streak-stats.demolab.com?user=kamboj-ayush&hide_border=true&background=ffffff&stroke=d0d7de&ring=1f2328&fire=1f2328&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=1f2328&sideLabels=59636e&dates=59636e" alt="GitHub streak" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Ayu5h_001?theme=dark&font=Inter&border=0"/>
+    <img src="https://leetcard.jacoblin.cool/Ayu5h_001?theme=light&font=Inter&border=0" alt="LeetCode stats" height="165"/>
+  </picture>
 </p>
 
 ### Get in Touch
