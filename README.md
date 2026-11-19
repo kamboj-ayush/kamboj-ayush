@@ -1,74 +1,42 @@
-# 🚀 Ayush Kamboj  
+<h1 align="center">Ayush Kamboj</h1>
+<p align="center">Flutter and Android developer building clean, fast mobile apps</p>
 
-### 📱 Mobile Development Enthusiast  
-*"Crafting exceptional mobile experiences, one line of code at a time"*  
-
----
-
-## 🎯 Who Am I?  
-A passionate **Flutter** and **Android Native** developer who thrives on turning innovative ideas into reality.  
-I build mobile apps that are not only functional but also create real impact.  
-Fueled by curiosity, collaboration, and clean, efficient code.  
+<p align="center">
+  <a href="https://portfolio-ayush-kamboj-98.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/kambojayush/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Ayu5h_001/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:ayushkamboj46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 🛠️ Technical Arsenal  
+### About
 
-### 🎨 Flutter Ecosystem  
-- GetX  
-- BLoC  
-- Cubit  
-- Provider  
-- Clean Architecture  
+I build mobile apps with Flutter and native Android. I care about clean architecture, smooth UI, and code that's easy for the next person to pick up. Most of my time goes into building apps end to end, from the first screen to the Play Store release, and solving problems on LeetCode on the side.
 
-### 📱 Android Native  
-- Kotlin  
-- Jetpack Compose  
-- Coroutines  
-- MVVM / MVP  
+- Currently working on Flutter and Jetpack Compose projects
+- Interested in open source, early-stage startups, and developer communities
+- Happy to mentor and always looking to learn from others
+- Pronouns: he/him
 
-### 🚀 Deployment & Distribution  
-- App Store  
-- Play Store  
-- CI/CD  
-- Optimization  
+### Tech Stack
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,git,github,figma" alt="Tech stack"/>
+</p>
 
-## 💡 What Drives Me  
-- 🔥 **Open Source Advocate** – Contributing to meaningful projects  
-- 🌟 **Continuous Learner** – Exploring cutting-edge technologies  
-- 🤝 **Collaboration Enthusiast** – Best solutions come from diverse minds  
-- 🎯 **Problem Solver** – Creating solutions that make a difference  
+| Area | Tools |
+|------|-------|
+| Flutter | GetX, BLoC, Cubit, Provider, Clean Architecture |
+| Android | Kotlin, Jetpack Compose, Coroutines, MVVM, MVP |
+| Shipping | Play Store, App Store, CI/CD, performance optimization |
 
----
+### Stats
 
-## 📊 Coding Journey  
-- 💻 **LeetCode** – Solving algorithmic challenges daily  
-- 🏗️ **Building** – Scalable mobile applications  
-- 🔧 **Optimizing** – Performance across platforms  
+<p>
+  <img src="https://leetcard.jacoblin.cool/Ayu5h_001?theme=dark&font=Inter" alt="LeetCode stats" height="170"/>
+</p>
 
----
+### Get in Touch
 
-## 🤝 Let’s Collaborate!  
-I’m looking for opportunities in:  
-- 🌟 **Open Source Projects** (Flutter & Android)  
-- 🚀 **Innovative Startups** building the next big thing  
-- 👥 **Developer Communities** focused on mobile excellence  
-- 📚 **Mentorship** – Giving & Receiving  
-
-> *Got an exciting project or open-source initiative? Let’s connect and build something amazing together!*  
-
----
-
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kambojayush/)  
-- 🧮 [LeetCode](https://leetcode.com/u/Ayu5h_001/)  
-- 📧 [Email Me](mailto:ayushkamboj46@gmail.com)  
-
----
-
-### ✨ Quote to Live By  
-*"The best way to predict the future is to create it. Let’s build something extraordinary together!"*  
-
-**Pronouns:** He/Him  
+If you're working on a mobile project or an open-source idea and want another pair of hands, reach out on [LinkedIn](https://www.linkedin.com/in/kambojayush/) or [email me](mailto:ayushkamboj46@gmail.com). You can see more of my work on my [portfolio](https://portfolio-ayush-kamboj-98.vercel.app/).
